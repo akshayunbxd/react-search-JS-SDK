@@ -100,8 +100,8 @@ const Search = () => {
         <UnbxdSearchWrapper
         // siteKey = "prod-frenchbedroomcompany11861619415887"
         // apiKey = "62f8c3f47421a605fc5d1d1be55ae936"
-        siteKey="ss-unbxd-gcp-Gardner-White-STG8241646781056"
-        apiKey="e2082aeb3a7f0ac8955c879daf7673e8"
+        siteKey="wildearthclone-neto-com-au808941566310465"
+                apiKey="e6959ae0b643d51b565dc3e01bf41ec1"
             getCategoryId={getCategoryId}
             searchConfigurations={configs}
             productType={productType}
