@@ -87,7 +87,7 @@
         "terser-webpack-plugin": "^3.0.1",
         "uglifyjs-webpack-plugin": "^2.2.0",
         "webpack": "^4.41.6",
-        "webpack-cli": "^3.3.11",
+        "webpack-cli": "^4.10.0",
         "webpack-dev-server": "^3.10.3"
     },
     "dependencies": {
